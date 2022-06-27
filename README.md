@@ -2,6 +2,8 @@
 
 This is a tool to import metadata to the Trompa Contributor Environment
 
+This fork adds some additional scripts for Voctro Labs/Cantamus.app
+
 It imports detailed data from the following sources:
 
   * CPDL
